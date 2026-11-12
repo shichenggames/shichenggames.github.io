@@ -163,3 +163,4 @@ ignitemediatech.com, pub_11115, RESELLER
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 playdigo.com, 1965, RESELLER
 pangleglobal.com, 5046008, DIRECT
+facebook.com, 1118603176007460, RESELLER, c3e20eee3f780d68
