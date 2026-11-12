@@ -162,3 +162,4 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 playdigo.com, 1965, RESELLER
+pangleglobal.com, 5046008, DIRECT
